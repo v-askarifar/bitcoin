@@ -1,0 +1,43 @@
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BTC.exe.config
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BTC.exe
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BTC.pdb
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Newtonsoft.Json.dll
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ZedGraph.dll
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Newtonsoft.Json.xml
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.csprojResolveAssemblyReference.cache
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.Form2.resources
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.Properties.Resources.resources
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.csproj.GenerateResource.Cache
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.exe
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.pdb
+c:\users\vahid\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\BTC.Form3.resources
+C:\Users\Vahid\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form4.resources
+F:\AptProgram\BTC\WindowsFormsApp9\bin\Debug\BTC.exe.config
+F:\AptProgram\BTC\WindowsFormsApp9\bin\Debug\BTC.exe
+F:\AptProgram\BTC\WindowsFormsApp9\bin\Debug\BTC.pdb
+F:\AptProgram\BTC\WindowsFormsApp9\bin\Debug\Newtonsoft.Json.dll
+F:\AptProgram\BTC\WindowsFormsApp9\bin\Debug\Newtonsoft.Json.xml
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.csproj.AssemblyReference.cache
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.csproj.SuggestedBindingRedirects.cache
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.Properties.Resources.resources
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.csproj.GenerateResource.cache
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.csproj.CoreCompileInputs.cache
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.csproj.CopyComplete
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.exe
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC.pdb
+F:\AptProgram\BTC\WindowsFormsApp9\obj\Debug\BTC_WindowsForms.frmbtc.resources
+F:\AptProgram\BTC\BTC_WindowsForms\bin\Debug\BTC.exe.config
+F:\AptProgram\BTC\BTC_WindowsForms\bin\Debug\BTC.exe
+F:\AptProgram\BTC\BTC_WindowsForms\bin\Debug\BTC.pdb
+F:\AptProgram\BTC\BTC_WindowsForms\bin\Debug\Newtonsoft.Json.dll
+F:\AptProgram\BTC\BTC_WindowsForms\bin\Debug\Newtonsoft.Json.xml
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.csproj.AssemblyReference.cache
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.csproj.SuggestedBindingRedirects.cache
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC_WindowsForms.frmbtc.resources
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.Properties.Resources.resources
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.csproj.GenerateResource.cache
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.csproj.CoreCompileInputs.cache
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.csproj.CopyComplete
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.exe
+F:\AptProgram\BTC\BTC_WindowsForms\obj\Debug\BTC.pdb
